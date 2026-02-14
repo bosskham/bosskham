@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm <a href="https://boromeyhan.me" target="_blank">Boromey Han</a>! 👋</h1>
+  <h1>Hi, I'm <a href="https://boromeyhan.me" target="_blank">Boromey Han AKA 1ClickDev</a>! 👋</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2097F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Building+AI+Powered+Desktop+Apps;Full+Stack+Web+Developer;Creator+of+WTN+Suite" alt="Typing SVG" />
 
