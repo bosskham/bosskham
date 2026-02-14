@@ -68,9 +68,9 @@ I'm a **Software Engineer** focused on building polished, production-ready softw
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bosskham&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="github stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bosskham&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="github stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosskham&layout=compact&theme=tokyonight&hide=html,css,typescript,javascript" height="180" alt="top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bosskham&layout=compact&theme=tokyonight&hide=html,css,typescript,javascript" height="180" alt="top languages" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosskham&theme=tokyonight&hide_border=true" alt="streak graph" />
 
