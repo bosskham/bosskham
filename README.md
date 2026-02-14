@@ -69,16 +69,14 @@ I'm a **Software Engineer** focused on building polished, production-ready softw
 <div align="center">
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bosskham&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="github stats" />
+  
+  <br />
 
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px 0;">
-    <br/>
-    <img src="https://img.shields.io/badge/Python-75.45%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    
-    <img src="https://img.shields.io/badge/TypeScript-14.35%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    
-    <img src="https://img.shields.io/badge/JavaScript-10.20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <br/>
-  </div>
+  <img src="https://img.shields.io/static/v1?label=Python&message=75.45%25&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/static/v1?label=TypeScript&message=14.35%25&color=3178C6&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/static/v1?label=JavaScript&message=10.20%25&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <br />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosskham&theme=tokyonight&hide_border=true" alt="streak graph" />
 
