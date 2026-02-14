@@ -66,9 +66,9 @@ I'm a **Software Engineer** focused on building polished, production-ready softw
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bosskham&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bosskham&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bosskham&layout=compact&theme=tokyonight&hide=html,css)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bosskham&layout=compact&theme=tokyonight&hide=html,css)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosskham&theme=tokyonight" alt="streak graph" />
