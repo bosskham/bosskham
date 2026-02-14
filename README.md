@@ -24,7 +24,7 @@
 
 I'm a **Software Engineer** focused on building polished, production-ready software. My work bridges the gap between **Desktop Applications** and **Web Platforms**, often powered by **AI/ML**.
 
-- 🔭 **Flagship Project:** Creator of **[WTN Suite](https://boromeyhan.me)**, an AI-powered desktop app that transforms webtoons into narrated videos.
+- 🔭 **Flagship Project:** Creator of **[WTN Suite](https://wtn-suite.com)**, an AI-powered desktop app that transforms webtoons into narrated videos.
 - 💻 **Focus:** High-performance desktop apps (PySide6) and scalable web apps (Next.js).
 - 🧠 **Interests:** Computer Vision (YOLO), LLMs (Gemini/Gemma), and TTS automation.
 
