@@ -1,0 +1,23 @@
+name: Update Stats Cards
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Stats Images
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          # Your GitHub Token (optional, but recommended for private stats)
+          GH_PAT: ${{ secrets.GH_PAT }}
+          USERNAME: bosskham
+          EXCLUDE_MERGED: true
+          
